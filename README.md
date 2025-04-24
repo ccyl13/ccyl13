@@ -26,23 +26,18 @@ Pentester y divulgador en ciberseguridad. Experto en marca personal enfocada a L
 
 ---
 
-### 🎓 Curso destacado: **Hazte viral en LinkedIn**
+### 🎓 Curso destacado
 
 <p align="center">
   <a href="https://elrincondelhacker.es/pagina-de-ventas-hazte-viral-linkedin/">
-    <img src="https://github.com/ccyl13/ccyl13/blob/main/hazte-viral-linkedin.png" alt="Curso Hazte Viral en LinkedIn" width="80%" />
+    <img src="https://github.com/ccyl13/ccyl13/blob/main/hazte-viral-banner.png" alt="Curso Hazte Viral en LinkedIn" width="80%" />
   </a>
 </p>
 
 <p align="center">
-  <strong>✔️ Aprende a destacar como profesional tech en LinkedIn</strong><br>
-  <a href="https://elrincondelhacker.es/pagina-de-ventas-hazte-viral-linkedin/">🧠 Descúbrelo aquí</a>
-</p>
-
-
-### 🌐 Encuéntrame en:
-<p align="center">
-  <a href="https://github.com/ccyl13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/thomasoneil%C3%A1lvarez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/thomas_oneil_alvarez_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  💥 <strong>Aprende a destacar como profesional tech en LinkedIn</strong>  
+  <br/>  
+  📈 Posiciónate, escribe contenido viral y genera oportunidades reales.  
+  <br/><br/>
+  👉 <a href="https://elrincondelhacker.es/pagina-de-ventas-hazte-viral-linkedin/">Haz clic para descubrir el curso</a>
 </p>
