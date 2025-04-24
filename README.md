@@ -26,6 +26,20 @@ Pentester y divulgador en ciberseguridad. Experto en marca personal enfocada a L
 
 ---
 
+### 🎓 Curso destacado: **Hazte viral en LinkedIn**
+
+<p align="center">
+  <a href="https://elrincondelhacker.es/pagina-de-ventas-hazte-viral-linkedin/">
+    <img src="https://github.com/ccyl13/ccyl13/blob/main/hazte-viral-linkedin.png" alt="Curso Hazte Viral en LinkedIn" width="80%" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>✔️ Aprende a destacar como profesional tech en LinkedIn</strong><br>
+  <a href="https://elrincondelhacker.es/pagina-de-ventas-hazte-viral-linkedin/">🧠 Descúbrelo aquí</a>
+</p>
+
+
 ### 🌐 Encuéntrame en:
 <p align="center">
   <a href="https://github.com/ccyl13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
