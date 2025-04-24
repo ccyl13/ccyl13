@@ -2,13 +2,13 @@
   <img src="https://github.com/ccyl13/ccyl13/blob/main/banner.png?raw=true" alt="Banner Thomas Ethical Hacker" width="100%"/>
 </p>
 
-<h1 align="center">💀 Thomas Ó’neil Álvarez</h1>
+<h1 align="center">💀 Thomas O’neil Álvarez</h1>
 <h3 align="center">Ethical Hacker | Ciberseguridad | Red Team</h3>
 
 ---
 
 ### 🧠 Sobre mí
-Soy pentester con pasión por el **hacking ético**, la **divulgación técnica** y el desarrollo de una **marca personal fuerte** en el sector tech. Ayudo a otros a destacar en LinkedIn y comparto lo que aprendo sobre ciberseguridad.
+Pentester y divulgador en ciberseguridad. Experto en marca personal enfocada a Linkedln.
 
 ---
 
