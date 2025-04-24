@@ -48,13 +48,6 @@ Pentester y divulgador en ciberseguridad. Especializado en hacking ético, admin
   <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,git,github,vscode,docker,java,react,bootstrap,mysql,firebase,postman,nodejs" />
 </p>
 
-<!-- Tecnologías sin Skillicon: añadidas aparte si se desea -->
-<p align="center">
-  <img src="https://github.com/ccyl13/ccyl13/blob/main/kali-linux.png?raw=true" alt="Kali Linux" width="50px" style="margin: 5px;" />
-  <img src="https://github.com/ccyl13/ccyl13/blob/main/metasploit.png?raw=true" alt="Metasploit" width="50px" style="margin: 5px;" />
-  <img src="https://github.com/ccyl13/ccyl13/blob/main/johntheripper.png?raw=true" alt="John the Ripper" width="50px" style="margin: 5px;" />
-</p>
-
 ---
 
 ### 🛡️ Herramientas de Red Team
@@ -65,8 +58,10 @@ Pentester y divulgador en ciberseguridad. Especializado en hacking ético, admin
   <img src="https://img.shields.io/badge/BloodHound-AD%20Mapping-7D3C98?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CrackMapExec-Windows%20Hacking-117A65?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Impacket-Protocol%20Exploitation-2E86C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/John%20The%20Ripper-Password%20Cracker-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SET-Social%20Engineering%20Toolkit-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/John%20The%20Ripper-Password%20Cracker-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-Exploit%20Framework-5e5c5c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-Offensive%20Platform-50617A?style=for-the-badge"/>
 </p>
 
 ---
