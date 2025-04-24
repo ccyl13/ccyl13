@@ -8,11 +8,18 @@
 ---
 
 ### 🧠 Sobre mí
-Pentester y divulgador en ciberseguridad. También experto en marca personal en LinkedIn.
+Soy pentester con pasión por el **hacking ético**, la **divulgación técnica** y el desarrollo de una **marca personal fuerte** en el sector tech. Ayudo a otros a destacar en LinkedIn y comparto lo que aprendo sobre ciberseguridad.
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 Tecnologías y herramientas que uso
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,vscode,github,git,burpsuite,wireshark,nmap" />
+</p>
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ccyl13&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
@@ -24,5 +31,4 @@ Pentester y divulgador en ciberseguridad. También experto en marca personal en 
   <a href="https://github.com/ccyl13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/thomasoneil%C3%A1lvarez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/thomas_oneil_alvarez_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://tu-podcast.com"><img src="https://img.shields.io/badge/Podcast-red?style=for-the-badge&logo=google-podcasts&logoColor=white"/></a>
 </p>
