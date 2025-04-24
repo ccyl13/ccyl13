@@ -2,7 +2,7 @@
   <img src="https://github.com/ccyl13/ccyl13/blob/main/banner.png?raw=true" alt="Banner Thomas Ethical Hacker" width="100%"/>
 </p>
 
-<h1 align="center">💀 Thomas O’neil Álvarez</h1>
+<h1 align="center">💀 Thomas Ó’neil Álvarez</h1>
 <h3 align="center">Ethical Hacker | Ciberseguridad | Red Team</h3>
 
 ---
@@ -42,27 +42,19 @@ Pentester y divulgador en ciberseguridad. Especializado en hacking ético, admin
 
 ---
 
-### ⚙️ Tecnologías y herramientas que uso
+### 🧰 Tecnologías y herramientas que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,git,github,vscode,docker,java,react,bootstrap" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-50617A?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-F44A00?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Metasploit-5e5c5c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/John%20The%20Ripper-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Social%20Engineering-8e44ad?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OSINT-16a085?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=burpsuite,nmap,wireshark,mysql,firebase,postman,nodejs" />
 </p>
 
 ---
 
-### 🧨 Herramientas de Red Team
+### 🔐 Herramientas y técnicas de Red Team & OSINT
 
 <p align="center">
   <img src="https://img.shields.io/badge/Empire-PostExploitation-critical?style=for-the-badge"/>
@@ -70,21 +62,9 @@ Pentester y divulgador en ciberseguridad. Especializado en hacking ético, admin
   <img src="https://img.shields.io/badge/BloodHound-AD%20Mapping-7D3C98?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CrackMapExec-Windows%20Hacking-117A65?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Impacket-Protocol%20Exploitation-2E86C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python%20Scripts-Automation%20Offensive-27AE60?style=for-the-badge"/>
-</p>
-
----
-
-### 🕵️ Herramientas OSINT & Ingeniería Social
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PhoneInfoga-Number%20Recon-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Sherlock-Username%20Finder-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IntelX%20%7C%20UserSearch-Email%20Tracking-2980b9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/John%20The%20Ripper-Password%20Cracker-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SET-Social%20Engineering%20Toolkit-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Phishing%20Frameworks-Simulation%20Tools-7f8c8d?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EXIF%20%7C%20PDF-Metadata%20Extraction-34495e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Web%20OSINT-Tracking-darkred?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OSINT%20Tools-PhoneInfoga,%20Sherlock,%20GHunt-blue?style=for-the-badge"/>
 </p>
 
 ---
