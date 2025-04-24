@@ -8,7 +8,37 @@
 ---
 
 ### 🧠 Sobre mí
-Pentester y divulgador en ciberseguridad. Experto en marca personal enfocada a Linkedln.
+
+Pentester y divulgador en ciberseguridad. Especializado en hacking ético, administración de sistemas y marca personal tech en LinkedIn. Ayudo a profesionales a potenciar su perfil y generar impacto en redes.
+
+---
+
+### 🥇 Reconocimiento destacado
+
+<p align="center">
+  <img src="https://github.com/ccyl13/ccyl13/blob/main/ranking-favikon.jpeg?raw=true" alt="Ranking Favikon Thomas" width="90%"/>
+</p>
+
+<p align="center">
+  <strong>🏆 Número #1 en LinkedIn España</strong><br>
+  En la categoría de <strong>Ciberseguridad</strong> según <a href="https://favikon.com/">Favikon</a> 🔐🔥
+</p>
+
+---
+
+### 🎓 Curso destacado: Hazte viral en LinkedIn
+
+<p align="center">
+  <a href="https://elrincondelhacker.es/pagina-de-ventas-hazte-viral-linkedin/">
+    <img src="https://github.com/ccyl13/ccyl13/blob/main/hazte-viral-banner.png?raw=true" alt="Curso Hazte Viral en LinkedIn" width="80%" />
+  </a>
+</p>
+
+<p align="center">
+  💥 Aprende a destacar como profesional tech en LinkedIn  
+  📈 Posiciónate, escribe contenido viral y genera oportunidades reales  
+  👉 <a href="https://elrincondelhacker.es/pagina-de-ventas-hazte-viral-linkedin/">Descúbrelo aquí</a>
+</p>
 
 ---
 
@@ -19,25 +49,17 @@ Pentester y divulgador en ciberseguridad. Experto en marca personal enfocada a L
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ccyl13&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 
 ---
 
-### 🎓 Curso destacado
-
+### 🌐 Encuéntrame en:
 <p align="center">
-  <a href="https://elrincondelhacker.es/pagina-de-ventas-hazte-viral-linkedin/">
-    <img src="https://github.com/ccyl13/ccyl13/blob/main/hazte-viral-banner.png" alt="Curso Hazte Viral en LinkedIn" width="80%" />
-  </a>
+  <a href="https://github.com/ccyl13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/thomasoneil%C3%A1lvarez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/thomas_oneil_alvarez_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  💥 <strong>Aprende a destacar como profesional tech en LinkedIn</strong>  
-  <br/>  
-  📈 Posiciónate, escribe contenido viral y genera oportunidades reales.  
-  <br/><br/>
-  👉 <a href="https://elrincondelhacker.es/pagina-de-ventas-hazte-viral-linkedin/">Haz clic para descubrir el curso</a>
-</p>
